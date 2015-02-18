@@ -4,4 +4,5 @@ int propUno;
 int propDos;
 int propTres;
 int propCuatro;
+int propSeis;
 }
