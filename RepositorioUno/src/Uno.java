@@ -1,8 +1,5 @@
 
 public class Uno {
-int unoProp;
+int propUno;
 int propDos;
-int propTres;
-int propcuatro;
-int propCinco;
 }
