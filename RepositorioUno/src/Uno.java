@@ -8,6 +8,6 @@ int propSeis;
 int propOcho;
 int propCinco;
 int propSiete;
-int propsses;
+int propNueve;
 
 }
