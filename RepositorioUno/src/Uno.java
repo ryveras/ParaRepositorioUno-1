@@ -8,11 +8,8 @@ int propSeis;
 int propOcho;
 int propCinco;
 int propSiete;
-<<<<<<< HEAD
 int propNueve;
 String cambio;
-=======
 int propsses;
->>>>>>> branch 'master' of https://github.com/JuananGF/ParaRepositorioUno.git
 
 }
